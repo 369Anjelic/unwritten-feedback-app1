@@ -1,1 +1,11 @@
-404: Not Found
+{
+  "expo": {
+    "name": "Unwritten Feedback",
+    "slug": "unwritten-feedback-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTabletMode": true
+    }
+  }
+}
